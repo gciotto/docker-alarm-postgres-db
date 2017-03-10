@@ -8,3 +8,5 @@ FROM postgres:latest
 MAINTAINER Gustavo Ciotto
 
 COPY sql/*.sql /docker-entrypoint-initdb.d/
+
+CMD ["postgres"]
