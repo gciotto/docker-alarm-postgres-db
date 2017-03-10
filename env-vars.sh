@@ -1,8 +1,8 @@
 #!/bin/bash
 
 DOCKER_MANTAINER_NAME=gciotto
-DOCKER_NAME=alarm-database-docker
-DOCKER_RUN_NAME=alarm-database-docker-container
+DOCKER_NAME=alarm-postgres-db
+DOCKER_RUN_NAME=alarm-postgres-db
 DOCKER_VOLUME_NAME=alarm-database-volume
 
 POSTGRES_USER=lnls_alarm_user
