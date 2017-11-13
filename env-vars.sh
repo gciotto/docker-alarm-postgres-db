@@ -2,10 +2,11 @@
 
 # Essential environment variables
 
-DOCKER_MANTAINER_NAME=gciotto
+DOCKER_MANTAINER_NAME=lnlscon
 DOCKER_NAME=alarm-postgres-db
 DOCKER_RUN_NAME=alarm-postgres-db
 DOCKER_VOLUME_NAME=alarm-database-volume
+DOCKER_TAG=latest
 
 # Postgres variables
 
